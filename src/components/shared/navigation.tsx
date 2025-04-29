@@ -61,7 +61,7 @@ const Navigation = () => {
                   </Link>
                   <Link
                      href="/#"
-                     className="font-inter text-[14px] font-medium text-white bg-green-700 hover:bg-green-800 border-green-700 hover:border-green-800 px-4 py-2 rounded-lg border">
+                     className="font-inter text-[14px] font-medium text-white bg-[rgba(40,124,62,1)] hover:bg-green-800 border-[rgba(40,124,62,1)] hover:border-green-800 px-4 py-2 rounded-lg border">
                      Masuk
                   </Link>
                </div>
@@ -139,7 +139,7 @@ const Navigation = () => {
                   </Link>
                   <Link
                      href="/#"
-                     className="block text-center font-inter text-[14px] font-medium text-white bg-green-700 hover:bg-green-800 px-4 py-2 rounded-lg"
+                     className="block text-center font-inter text-[14px] font-medium text-white bg-[rgba(40,124,62,1)] hover:bg-green-800 px-4 py-2 rounded-lg"
                      onClick={() => setIsMobileMenuOpen(false)}
                   >
                      Masuk

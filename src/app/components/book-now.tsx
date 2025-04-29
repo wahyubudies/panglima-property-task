@@ -22,7 +22,7 @@ const BookNow = () => {
                <p className="text-sm md:text-base text-white/90 mb-4 md:mb-6">
                   Tunggu apalagi, booking sekarang property syariah impian Anda
                </p>
-               <Button className="bg-green-700 hover:bg-green-800 text-white text-sm md:text-base gap-2">
+               <Button className="bg-[rgba(40,124,62,1)] hover:bg-green-800 text-white text-sm md:text-base gap-2">
                   <Image src={CartIcon} width={16} height={15} alt="" />
                   Daftar & Beli NUB
                </Button>

@@ -76,7 +76,7 @@ const Footer = () => {
          </div>
 
          {/* Copyright & Social Media */}
-         <div className="bg-[#287C3E] py-4">
+         <div className="bg-[rgba(40,124,62,1)] py-4">
             <div className="container mx-auto px-4">
                <div className="flex flex-col md:flex-row justify-between items-center space-y-3 md:space-y-0">
                   <p className="text-white text-xs md:text-sm text-center md:text-left">

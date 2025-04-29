@@ -82,7 +82,7 @@ const Reason = () => {
             <div className="mb-8 md:mb-10 flex flex-col lg:flex-row lg:items-center gap-4 lg:gap-10">
                <h2 className="text-white text-[24px] md:text-[30px] font-[600] leading-[36px] md:leading-[48px] tracking-[-0.025em] font-inter lg:min-w-[300px]">
                   Kenapa Harus
-                  <span className="block text-orange-500 font-inter text-[24px] md:text-[30px] font-[600] leading-[36px] md:leading-[48px] tracking-[-0.025em]">
+                  <span className="block text-orange-primary font-inter text-[24px] md:text-[30px] font-[600] leading-[36px] md:leading-[48px] tracking-[-0.025em]">
                      Panglima Propertindo?
                   </span>
                </h2>

@@ -15,7 +15,7 @@ const Banner = () => {
          <div className="container mx-auto px-4">
             <div className="max-w-3xl">
                <h1 className="font-['Inter'] text-[24px] md:text-[36px] font-semibold leading-[36px] md:leading-[54px] tracking-[-0.025em] align-middle mb-4">
-                  <span className="text-green-700">Hidup Nyaman & Berkah</span> dengan Properti
+                  <span className="text-[rgba(40,124,62,1)]">Hidup Nyaman & Berkah</span> dengan Properti
                   <div className="flex flex-col md:flex-row md:items-center gap-4 md:gap-2 mt-2 md:mt-0">
                      <span>Syariah Kelas Dunia</span>
                      <div className="flex -space-x-2">
@@ -49,7 +49,7 @@ const Banner = () => {
                <p className="font-['Inter'] text-gray-600 text-[16px] md:text-[20px] font-normal leading-[24px] md:leading-[30px] tracking-[0%] align-middle mb-6 md:mb-8">
                   Developer Properti Syariah terdepan menghadirkan solusi properti tanpa riba dan sesuai prinsip syariah. Daftar dan booking sekarang juga!
                </p>
-               <button className="w-full md:w-auto bg-green-700 text-white px-6 py-3 rounded-lg hover:bg-green-800 transition-colors">
+               <button className="w-full md:w-auto bg-[rgba(40,124,62,1)] text-white px-6 py-3 rounded-lg hover:bg-green-800 transition-colors">
                   Daftar & Beli NUB
                </button>
             </div>

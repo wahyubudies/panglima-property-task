@@ -18,7 +18,7 @@ const CircleImage = ({ imageUrl, iconUrl, alt, label }: CircleImageProps) => {
                className="object-cover"
             />
          </div>
-         <div className="group-hover:-top-[10px] w-full h-full absolute inset-0 rounded-full bg-black opacity-30 group-hover:bg-orange-500 group-hover:opacity-90"></div>
+         <div className="group-hover:-top-[10px] w-full h-full absolute inset-0 rounded-full bg-black opacity-30 group-hover:bg-orange-primary group-hover:opacity-90"></div>
          <div className="group-hover:-top-[24px] absolute inset-0 flex items-center justify-center z-10 transition-all">
             <Image
                src={iconUrl}
