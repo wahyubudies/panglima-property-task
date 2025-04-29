@@ -25,7 +25,7 @@ export default function FeedbackDetail() {
    };
 
    return (
-      <div className="container mx-auto p-6">
+      <div className="container mx-auto p-6 mt-[73px]">
          <div className="mb-6 flex items-center justify-between">
             <h1 className="text-2xl font-bold">Detail Feedback</h1>
             <Button
