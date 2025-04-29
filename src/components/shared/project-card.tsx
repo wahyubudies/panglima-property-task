@@ -11,7 +11,7 @@ export interface ProjectCardProps {
 
 export function ProjectCard({ title, location, mapUrl, image, unitTypes }: ProjectCardProps) {
    return (
-      <div className="bg-white w-full h-[413px] rounded-lg overflow-hidden shadow-sm border border-gray-100 p-4 gap-4 shadow-slate-200">
+      <div className="bg-white w-full h-[413px] rounded-lg overflow-hidden shadow-sm border border-gray-100 p-4 gap-4 shadow-slate-200 hover:border-[rgba(40,124,62,1)]">
          <div className="relative overflow-hidden w-full h-[208px] px-5 rounded-lg">
             <Image
                src={image}
